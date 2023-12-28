@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.e43a8bdf.css",
+    "main.js": "/my-portfolio/static/js/main.481e4745.js",
+    "static/media/Aarati_Shah_CV.pdf": "/my-portfolio/static/media/Aarati_Shah_CV.f58e9e9b6c9e0d35f1a6.pdf",
+    "static/media/aarati.jpeg": "/my-portfolio/static/media/aarati.e7702b775f7e583a3f86.jpeg",
+    "index.html": "/my-portfolio/index.html",
+    "main.e43a8bdf.css.map": "/my-portfolio/static/css/main.e43a8bdf.css.map",
+    "main.481e4745.js.map": "/my-portfolio/static/js/main.481e4745.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43a8bdf.css",
+    "static/js/main.481e4745.js"
+  ]
+}
